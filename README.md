@@ -1,4 +1,4 @@
-# BTD6_Auto_Grinder
+# BTD6 Auto Grinder
 BTD6 Auto Grinder is an AutoHotkey script for automatic grinding of Experience, Monkey Money and other things (such as event points) in the Steam release of [Bloons TD 6](https://store.steampowered.com/app/960090/Bloons_TD_6/).
 
 As of right now, the script works by automatically putting down towers in the Dark Castle map (Deflation mode), letting them deal with all the waves of bloons, and restarting the map once finished.
