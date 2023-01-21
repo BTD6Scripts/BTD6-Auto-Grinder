@@ -104,7 +104,7 @@ Loop
 	
 	SafePutDownTower("u", 0.445, 0.4, false)	; Obyn, no upgrades
 	
-	SafePutDownTower("d", 0.4025, 0.4, true)	; ninja 3/0/1
+	SafePutDownTower("d", 0.4020, 0.4, true)	; ninja 3/0/1
 	SafeHotkey(",")
 	SafeHotkey(",")
 	SafeHotkey(",")
